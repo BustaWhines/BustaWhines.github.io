@@ -1,12 +1,15 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="web.css" />
     <title>Busta Whines</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
   </head>
   <body>
-    <h1>HD web developments</h1>
-    <p>This is a paragraph of text.</p>
+    <h1>Hd Web Developments</h1>
+    <img src="" alt="" />
+    <script src="web.js"></script>
   </body>
 </html>
