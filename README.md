@@ -8,7 +8,7 @@
     <title>Busta Whines</title>
   </head>
   <body>
-    <h1>Hd Web Developments</h1>
+    <h1>Dogs life Webdev</h1>
     <img src="" alt="" />
     <script src="web.js"></script>
   </body>
